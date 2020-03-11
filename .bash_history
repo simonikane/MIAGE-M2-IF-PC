@@ -474,3 +474,183 @@ cd sha3
 ls
 cat main.cpp
 sudo init 0
+ls
+cd exerciceHash_Linux/
+ls
+cd interfaces/
+ls
+cd ..
+ls
+cd NaiveHashComponent/
+ls
+cat libHash.so 
+clear
+ls
+cat NaiveVersion.h 
+cat NaiveVersion.cpp
+cat NaiveHashComponent.cpp 
+ls
+cd ..
+ls
+clear
+ls
+cd main
+ls
+cd ..
+ls
+cat Makefile 
+ls
+cd lib
+ls
+cd main
+ls
+cd ..
+cd main
+ls
+make
+ca main.cpp
+cat main.cpp
+ls
+cd ..
+ls
+cd ..
+ls
+cd sha3
+ls
+cd sha3
+ls
+make
+cat main.cpp
+cat sha3.cpp
+ls
+cd ..
+ls
+cd ..
+ls
+cd exerciceHash_Linux/
+ls
+cat Makefile 
+cd main/
+ls
+cat Makefile 
+vim Makefile 
+ls
+cat main.cpp 
+cd ..
+ls
+git commit -a
+git commit -m "Uploading new content (hash exercise)"
+git push origin master
+git config --list
+git remote add origin
+git remote add origin https://github.com/simonikane/MIAGE-M2-IF-PC.git
+git push origin master
+git config --list
+git remote add set-url https://github.com/simonikane/MIAGE-M2-IF-PC.git
+git push origin master
+git remote -v
+git remote add origin https://github.com/simonikane/MIAGE-M2-IF-PC.git
+git remote set-url origin https://github.com/simon
+clear
+git remote set-url origin https://github.com/simonikane/MIAGE-M2-IF-PC.git
+git config --list
+git push origin maste
+git push origin master
+ls
+cd ..
+ls
+git push origin master
+git commit -m "init 2"
+git push origin master
+ls
+git remote set-url origin https://github.com/simonikane/MIAGE-M2-IF-PC.git
+git config --list
+git remote set-url origin https://github.com/simonikane/MIAGE-M2-IF-PC.git
+git push origin master
+ls
+cd partageable_Linux/
+ls
+git push origin master
+cd ..
+ls
+git push origin master
+git commit -a
+git push origin master
+git pull
+git pull origin master
+git commit -a
+git push origin master
+git add .
+git commit -a
+ls
+cd ..
+ls
+cd simonikane/
+ls
+cd partageable_Linux/
+ls
+git commit -a
+ls
+cd ..
+cd partageable_Linux/
+git push origin master
+cd ..
+ls
+git add
+git add .
+ls
+git commit -m "TRUC"
+git commit -m "init 2"
+git push origin master
+ls
+git add .
+git commit -m "init 3"
+git remote add origin https://github.com/simonikane/MIAGE-M2-IF-PC.git
+git push -u origin master
+git remote -v show
+git fetch origin
+git remote -v update
+git show-branch *master
+git merge
+git commit -m "truc 2"
+git add.
+git add .
+git commit -m "truc 2"
+git add exerciceHash_Linux/
+git commit -m "truc 2"
+ls
+cd partageable_Linux/
+ls
+cd main
+cat main.cpp
+ls
+cd ../..
+ls
+git add -u :/
+git add * :/
+git commit -m "truc 2"
+git status
+ls
+cd exerciceHash_Linux/
+ls -la
+rm -R git
+rm -R .git
+sudo rm -R .git
+cd ..
+git add * :/
+git commit -m "truc 2"
+git push origin master
+git add .
+git commit -m "t"
+git pull origin master
+git add .
+ls
+rm -R Exercice\ 1/
+ls
+git push origin master
+git add .
+git commit -a "t"
+git commit -m "t"
+git push origin master
+ls
+git status
