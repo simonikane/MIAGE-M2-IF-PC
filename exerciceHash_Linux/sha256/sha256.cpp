@@ -1,6 +1,9 @@
+
+#include "sha256.h"
+#include "hash.h"
 #include <cstring>
 #include <fstream>
-#include "sha256.h"
+#include <cstdio>
 
 const unsigned int SHA256::sha256_k[64] = //UL = uint32
 {0x428a2f98, 0x71374491, 0xb5c0fbcf, 0xe9b5dba5,
@@ -130,3 +133,22 @@ std::string sha256(std::string input)
 		sprintf(buf+i*2, "%02x", digest[i]);
 	return std::string(buf);
 }
+
+std::string hash(std::string input){
+	return std::string(sha256(input));
+}
+
+std ::string version(){
+	return ("1.0.0.0");
+}
+
+
+std ::string hashName(){
+        return ("HASH_SHA_265");
+}
+
+
+
+
+
+
