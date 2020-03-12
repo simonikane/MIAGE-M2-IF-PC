@@ -654,3 +654,212 @@ git commit -m "t"
 git push origin master
 ls
 git status
+ls
+rm -R exerciceHash_Linux/
+rm -R sha3
+sudo rm -R sha3
+ls
+cd partageable_Linux/
+ls
+la -la
+sudo rm -R .git
+ls
+ls -la
+dc ..
+cd ..
+ls
+clear
+ls -la
+git add .
+git commit -m "cleaning of repo - bug fixing 1"
+git push origin master
+git status
+git pull origin master
+ls
+git clone https://github.com/jluuM2/exerciceHash_Linux.git
+git clone https://github.com/jluuM2/sha3.git
+ls
+git add .
+git rm --cached exerciceHash_Linux/
+ls
+git add .
+git commit -m "fixing repo 2"
+git push origin master
+ls
+cd exerciceHash_Linux/
+ls
+cd ..
+git rm --cached exerciceHash_Linux/
+git rm --cached sha3
+git rm --cached partageable_Linux/
+ls
+git add .
+git rm --cached exerciceHash_Linux
+ls
+cd exerciceHash_Linux/
+ls
+cd ..
+git add -f exerciceHash_Linux/
+git add -f partageable_Linux/
+git add -f sha3
+git add .
+git commit -m "t"
+git push origin master
+ls
+cd sha3
+ls
+ls -la
+cd ..
+cd partageable_Linux/
+ls
+ls -la
+cd ..
+cd sha3
+sudo rm -R .git
+cd ..
+git add -f sha3
+git commit -m "t"
+ls
+cd sha3
+ls
+ls -la
+git rm --cached sha3
+cd ..
+git rm --cached sha3
+ls
+git add -f sha3
+git commit -m "t"
+git push origin master
+ls
+cd exerciceHash_Linux/
+ls
+mkdir sha3
+mkdir sha256
+ls
+cat Makefile
+ls
+cd main
+ls
+cat Makefile
+objdump -C -T main
+ls
+cd ..
+ls
+cd interfaces/
+ls
+cat hash.h 
+cd ..
+ls
+cd NaiveHashComponent/
+ls
+cat Makefile 
+make
+ls -la
+cd ..
+make
+cd ..
+ls
+cd exerciceHash_Linux/
+ls 
+make
+ls
+cd ..
+ls
+cd Captures\ d\'écrans\ Exercice\ 1/
+ls
+cd ..
+git pull origin master
+ls
+cd exerciceHash_Linux/
+ls
+cd lib
+ls
+cd ..
+ls
+cd ..
+ls
+cd sha3
+ls
+cd sha256/
+ms
+ls
+cd ..
+ls
+cd sha3
+ls
+cd sha3
+ls
+cat Licence.txt 
+cd ..
+ms
+l
+scd partageable_Linux/
+ls
+cd partageable_Linux/
+ls
+cd main
+ls
+cd ..
+ls
+cd lib
+ls
+cd ..
+ls
+cd bin
+ls
+cd ..
+ls
+cd Composant
+cd Composant1
+ls
+cd ..
+ls
+cd ..
+sudo rm -R partageable_Linux/
+git add .
+git commit -m "fixing repo 3"
+git push origin master
+git clone https://github.com/jluuM2/partageable_Linux.git
+git add .
+git add -f partageable_Linux/
+git commit -m "t"
+git add .
+git commit -m "t"
+ls
+git rm --cached partageable_Linux/
+git add .
+git rm --cached partageable_Linux/
+git add -f partageable_Linux/
+git add .
+git commit -m "t"
+git commit -m "fixing broken repo 4"
+git push origin master
+git pull
+ls
+cd partageable_Linux/
+ls
+make
+vim main.cpp
+ls
+cd main
+ls
+vim main.cpp
+ls -la
+sudo rm .main.cpp.swp 
+ls
+vim main.cpp
+cd ..
+ls
+make
+cd main
+vim main.cpp
+ls
+ls -la
+rm .main.cpp.swp 
+ls
+cat main.cpp
+cd ..
+makd
+mak
+make
+sudo init 0

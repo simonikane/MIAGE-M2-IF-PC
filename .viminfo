@@ -14,10 +14,10 @@
 ~Msle0~/\<handle\>
 
 # Command Line History (newest to oldest):
-:q
-|2,0,1583862587,,"q"
 :wq
-|2,0,1583865421,,"wq"
+|2,0,1584015662,,"wq"
+:q
+|2,0,1584015229,,"q"
 :1,$d
 |2,0,1583864140,,"1,$d"
 
@@ -82,30 +82,210 @@
 |3,1,36,0,1,0,1583862566,"libComposant1.so\",RTLD_LAZY);"
 
 # File marks:
-'0  6  37  ~/exerciceHash_Linux/main/Makefile
-|4,48,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
-'1  1  0  ~/exerciceHash_Linux/NaiveHashComponent/NaiveHashComponent.cpp
-|4,49,1,0,1583922999,"~/exerciceHash_Linux/NaiveHashComponent/NaiveHashComponent.cpp"
-'2  1  0  ~/exerciceHash_Linux/NaiveHashComponent/Naive
-|4,50,1,0,1583922999,"~/exerciceHash_Linux/NaiveHashComponent/Naive"
-'3  16  1  ~/partageable_Linux/main/main.cpp
-|4,51,16,1,1583866599,"~/partageable_Linux/main/main.cpp"
-'4  21  86  ~/partageable_Linux/main.cpp
-|4,52,21,86,1583866599,"~/partageable_Linux/main.cpp"
-'5  22  37  ~/partageable_Linux/main/main.cpp
-|4,53,22,37,1583865421,"~/partageable_Linux/main/main.cpp"
-'6  19  26  ~/partageable_Linux/main/main.cpp
-|4,54,19,26,1583865304,"~/partageable_Linux/main/main.cpp"
-'7  19  26  ~/partageable_Linux/main/main.cpp
-|4,55,19,26,1583865304,"~/partageable_Linux/main/main.cpp"
-'8  22  7  ~/partageable_Linux/main/main.cpp
-|4,56,22,7,1583865120,"~/partageable_Linux/main/main.cpp"
-'9  22  7  ~/partageable_Linux/main/main.cpp
-|4,57,22,7,1583865120,"~/partageable_Linux/main/main.cpp"
+'0  5  38  ~/partageable_Linux/main/Makefile
+|4,48,5,38,1584015662,"~/partageable_Linux/main/Makefile"
+'1  5  21  ~/exerciceHash_Linux/main/Makefile
+|4,49,5,21,1584015229,"~/exerciceHash_Linux/main/Makefile"
+'2  41  40  ~/partageable_Linux/main/main.cpp
+|4,50,41,40,1583941339,"~/partageable_Linux/main/main.cpp"
+'3  14  7  ~/partageable_Linux/main/main.cpp
+|4,51,14,7,1583941339,"~/partageable_Linux/main/main.cpp"
+'4  1  0  ~/partageable_Linux/main.cpp
+|4,52,1,0,1583941339,"~/partageable_Linux/main.cpp"
+'5  21  0  ~/partageable_Linux/main/main.cpp
+|4,53,21,0,1583940849,"~/partageable_Linux/main/main.cpp"
+'6  21  0  ~/partageable_Linux/main/main.cpp
+|4,54,21,0,1583940849,"~/partageable_Linux/main/main.cpp"
+'7  1  0  ~/partageable_Linux/main/main.cpp
+|4,55,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+'8  1  0  ~/partageable_Linux/main/main.cpp
+|4,56,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+'9  1  0  ~/partageable_Linux/main/main.cpp
+|4,57,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
 
 # Jumplist (newest first):
+-'  5  38  ~/partageable_Linux/main/Makefile
+|4,39,5,38,1584015662,"~/partageable_Linux/main/Makefile"
+-'  9  44  ~/partageable_Linux/main/Makefile
+|4,39,9,44,1584015636,"~/partageable_Linux/main/Makefile"
+-'  5  21  ~/exerciceHash_Linux/main/Makefile
+|4,39,5,21,1584015229,"~/exerciceHash_Linux/main/Makefile"
+-'  5  21  ~/exerciceHash_Linux/main/Makefile
+|4,39,5,21,1584015229,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1584015198,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1584015198,"~/exerciceHash_Linux/main/Makefile"
+-'  41  40  ~/partageable_Linux/main/main.cpp
+|4,39,41,40,1583941339,"~/partageable_Linux/main/main.cpp"
+-'  14  7  ~/partageable_Linux/main/main.cpp
+|4,39,14,7,1583941339,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main.cpp
+|4,39,1,0,1583941339,"~/partageable_Linux/main.cpp"
+-'  41  40  ~/partageable_Linux/main/main.cpp
+|4,39,41,40,1583941339,"~/partageable_Linux/main/main.cpp"
+-'  14  7  ~/partageable_Linux/main/main.cpp
+|4,39,14,7,1583941339,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main.cpp
+|4,39,1,0,1583941339,"~/partageable_Linux/main.cpp"
+-'  41  40  ~/partageable_Linux/main/main.cpp
+|4,39,41,40,1583941339,"~/partageable_Linux/main/main.cpp"
+-'  14  7  ~/partageable_Linux/main/main.cpp
+|4,39,14,7,1583941339,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main.cpp
+|4,39,1,0,1583941339,"~/partageable_Linux/main.cpp"
+-'  41  40  ~/partageable_Linux/main/main.cpp
+|4,39,41,40,1583941339,"~/partageable_Linux/main/main.cpp"
+-'  14  7  ~/partageable_Linux/main/main.cpp
+|4,39,14,7,1583941339,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main.cpp
+|4,39,1,0,1583941339,"~/partageable_Linux/main.cpp"
+-'  21  0  ~/partageable_Linux/main/main.cpp
+|4,39,21,0,1583940918,"~/partageable_Linux/main/main.cpp"
+-'  21  0  ~/partageable_Linux/main/main.cpp
+|4,39,21,0,1583940918,"~/partageable_Linux/main/main.cpp"
+-'  21  0  ~/partageable_Linux/main/main.cpp
+|4,39,21,0,1583940918,"~/partageable_Linux/main/main.cpp"
+-'  21  0  ~/partageable_Linux/main/main.cpp
+|4,39,21,0,1583940918,"~/partageable_Linux/main/main.cpp"
+-'  21  0  ~/partageable_Linux/main/main.cpp
+|4,39,21,0,1583940849,"~/partageable_Linux/main/main.cpp"
+-'  21  0  ~/partageable_Linux/main/main.cpp
+|4,39,21,0,1583940849,"~/partageable_Linux/main/main.cpp"
+-'  21  0  ~/partageable_Linux/main/main.cpp
+|4,39,21,0,1583940849,"~/partageable_Linux/main/main.cpp"
+-'  21  0  ~/partageable_Linux/main/main.cpp
+|4,39,21,0,1583940849,"~/partageable_Linux/main/main.cpp"
+-'  16  1  ~/partageable_Linux/main/main.cpp
+|4,39,16,1,1583940792,"~/partageable_Linux/main/main.cpp"
+-'  16  1  ~/partageable_Linux/main/main.cpp
+|4,39,16,1,1583940792,"~/partageable_Linux/main/main.cpp"
+-'  16  1  ~/partageable_Linux/main/main.cpp
+|4,39,16,1,1583940792,"~/partageable_Linux/main/main.cpp"
+-'  16  1  ~/partageable_Linux/main/main.cpp
+|4,39,16,1,1583940792,"~/partageable_Linux/main/main.cpp"
+-'  16  1  ~/partageable_Linux/main/main.cpp
+|4,39,16,1,1583940792,"~/partageable_Linux/main/main.cpp"
+-'  16  1  ~/partageable_Linux/main/main.cpp
+|4,39,16,1,1583940792,"~/partageable_Linux/main/main.cpp"
+-'  16  1  ~/partageable_Linux/main/main.cpp
+|4,39,16,1,1583940792,"~/partageable_Linux/main/main.cpp"
+-'  16  1  ~/partageable_Linux/main/main.cpp
+|4,39,16,1,1583940792,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main/main.cpp
+|4,39,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main/main.cpp
+|4,39,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main/main.cpp
+|4,39,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main/main.cpp
+|4,39,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main/main.cpp
+|4,39,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main/main.cpp
+|4,39,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main/main.cpp
+|4,39,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main/main.cpp
+|4,39,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main/main.cpp
+|4,39,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main/main.cpp
+|4,39,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main/main.cpp
+|4,39,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+-'  1  0  ~/partageable_Linux/main/main.cpp
+|4,39,1,0,1583940781,"~/partageable_Linux/main/main.cpp"
+-'  16  1  ~/partageable_Linux/main/main.cpp
+|4,39,16,1,1583940752,"~/partageable_Linux/main/main.cpp"
+-'  16  1  ~/partageable_Linux/main/main.cpp
+|4,39,16,1,1583940752,"~/partageable_Linux/main/main.cpp"
+-'  16  1  ~/partageable_Linux/main/main.cpp
+|4,39,16,1,1583940752,"~/partageable_Linux/main/main.cpp"
+-'  16  1  ~/partageable_Linux/main/main.cpp
+|4,39,16,1,1583940752,"~/partageable_Linux/main/main.cpp"
 -'  6  37  ~/exerciceHash_Linux/main/Makefile
 |4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  6  37  ~/exerciceHash_Linux/main/Makefile
+|4,39,6,37,1583937530,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/main/Makefile
+|4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
 -'  1  0  ~/exerciceHash_Linux/main/Makefile
 |4,39,1,0,1583935329,"~/exerciceHash_Linux/main/Makefile"
 -'  1  0  ~/exerciceHash_Linux/NaiveHashComponent/NaiveHashComponent.cpp
@@ -116,228 +296,40 @@
 |4,39,1,0,1583922999,"~/exerciceHash_Linux/NaiveHashComponent/NaiveHashComponent.cpp"
 -'  1  0  ~/exerciceHash_Linux/NaiveHashComponent/Naive
 |4,39,1,0,1583922999,"~/exerciceHash_Linux/NaiveHashComponent/Naive"
--'  16  1  ~/partageable_Linux/main/main.cpp
-|4,39,16,1,1583866599,"~/partageable_Linux/main/main.cpp"
--'  21  86  ~/partageable_Linux/main.cpp
-|4,39,21,86,1583866599,"~/partageable_Linux/main.cpp"
--'  16  1  ~/partageable_Linux/main/main.cpp
-|4,39,16,1,1583866599,"~/partageable_Linux/main/main.cpp"
--'  21  86  ~/partageable_Linux/main.cpp
-|4,39,21,86,1583866599,"~/partageable_Linux/main.cpp"
--'  16  1  ~/partageable_Linux/main/main.cpp
-|4,39,16,1,1583866599,"~/partageable_Linux/main/main.cpp"
--'  21  86  ~/partageable_Linux/main.cpp
-|4,39,21,86,1583866599,"~/partageable_Linux/main.cpp"
--'  16  1  ~/partageable_Linux/main/main.cpp
-|4,39,16,1,1583866599,"~/partageable_Linux/main/main.cpp"
--'  21  86  ~/partageable_Linux/main.cpp
-|4,39,21,86,1583866599,"~/partageable_Linux/main.cpp"
--'  16  1  ~/partageable_Linux/main/main.cpp
-|4,39,16,1,1583866599,"~/partageable_Linux/main/main.cpp"
--'  21  86  ~/partageable_Linux/main.cpp
-|4,39,21,86,1583866599,"~/partageable_Linux/main.cpp"
--'  16  1  ~/partageable_Linux/main/main.cpp
-|4,39,16,1,1583866599,"~/partageable_Linux/main/main.cpp"
--'  21  86  ~/partageable_Linux/main.cpp
-|4,39,21,86,1583866599,"~/partageable_Linux/main.cpp"
--'  22  37  ~/partageable_Linux/main/main.cpp
-|4,39,22,37,1583865421,"~/partageable_Linux/main/main.cpp"
--'  22  37  ~/partageable_Linux/main/main.cpp
-|4,39,22,37,1583865421,"~/partageable_Linux/main/main.cpp"
--'  22  37  ~/partageable_Linux/main/main.cpp
-|4,39,22,37,1583865421,"~/partageable_Linux/main/main.cpp"
--'  22  37  ~/partageable_Linux/main/main.cpp
-|4,39,22,37,1583865421,"~/partageable_Linux/main/main.cpp"
--'  22  37  ~/partageable_Linux/main/main.cpp
-|4,39,22,37,1583865421,"~/partageable_Linux/main/main.cpp"
--'  22  37  ~/partageable_Linux/main/main.cpp
-|4,39,22,37,1583865421,"~/partageable_Linux/main/main.cpp"
--'  19  26  ~/partageable_Linux/main/main.cpp
-|4,39,19,26,1583865322,"~/partageable_Linux/main/main.cpp"
--'  19  26  ~/partageable_Linux/main/main.cpp
-|4,39,19,26,1583865322,"~/partageable_Linux/main/main.cpp"
--'  19  26  ~/partageable_Linux/main/main.cpp
-|4,39,19,26,1583865322,"~/partageable_Linux/main/main.cpp"
--'  19  26  ~/partageable_Linux/main/main.cpp
-|4,39,19,26,1583865322,"~/partageable_Linux/main/main.cpp"
--'  19  26  ~/partageable_Linux/main/main.cpp
-|4,39,19,26,1583865322,"~/partageable_Linux/main/main.cpp"
--'  19  26  ~/partageable_Linux/main/main.cpp
-|4,39,19,26,1583865322,"~/partageable_Linux/main/main.cpp"
--'  19  26  ~/partageable_Linux/main/main.cpp
-|4,39,19,26,1583865304,"~/partageable_Linux/main/main.cpp"
--'  19  26  ~/partageable_Linux/main/main.cpp
-|4,39,19,26,1583865304,"~/partageable_Linux/main/main.cpp"
--'  19  26  ~/partageable_Linux/main/main.cpp
-|4,39,19,26,1583865304,"~/partageable_Linux/main/main.cpp"
--'  19  26  ~/partageable_Linux/main/main.cpp
-|4,39,19,26,1583865304,"~/partageable_Linux/main/main.cpp"
--'  19  26  ~/partageable_Linux/main/main.cpp
-|4,39,19,26,1583865304,"~/partageable_Linux/main/main.cpp"
--'  19  26  ~/partageable_Linux/main/main.cpp
-|4,39,19,26,1583865304,"~/partageable_Linux/main/main.cpp"
--'  22  7  ~/partageable_Linux/main/main.cpp
-|4,39,22,7,1583865262,"~/partageable_Linux/main/main.cpp"
--'  22  7  ~/partageable_Linux/main/main.cpp
-|4,39,22,7,1583865262,"~/partageable_Linux/main/main.cpp"
--'  22  7  ~/partageable_Linux/main/main.cpp
-|4,39,22,7,1583865262,"~/partageable_Linux/main/main.cpp"
--'  22  7  ~/partageable_Linux/main/main.cpp
-|4,39,22,7,1583865262,"~/partageable_Linux/main/main.cpp"
--'  22  7  ~/partageable_Linux/main/main.cpp
-|4,39,22,7,1583865262,"~/partageable_Linux/main/main.cpp"
--'  22  7  ~/partageable_Linux/main/main.cpp
-|4,39,22,7,1583865262,"~/partageable_Linux/main/main.cpp"
--'  22  7  ~/partageable_Linux/main/main.cpp
-|4,39,22,7,1583865120,"~/partageable_Linux/main/main.cpp"
--'  22  7  ~/partageable_Linux/main/main.cpp
-|4,39,22,7,1583865120,"~/partageable_Linux/main/main.cpp"
--'  22  7  ~/partageable_Linux/main/main.cpp
-|4,39,22,7,1583865120,"~/partageable_Linux/main/main.cpp"
--'  22  7  ~/partageable_Linux/main/main.cpp
-|4,39,22,7,1583865120,"~/partageable_Linux/main/main.cpp"
--'  22  7  ~/partageable_Linux/main/main.cpp
-|4,39,22,7,1583865120,"~/partageable_Linux/main/main.cpp"
--'  22  7  ~/partageable_Linux/main/main.cpp
-|4,39,22,7,1583865120,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865114,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865099,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865099,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865099,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865099,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865099,"~/partageable_Linux/main/main.cpp"
--'  24  2  ~/partageable_Linux/main/main.cpp
-|4,39,24,2,1583865099,"~/partageable_Linux/main/main.cpp"
--'  22  9  ~/partageable_Linux/main/main.cpp
-|4,39,22,9,1583865090,"~/partageable_Linux/main/main.cpp"
--'  22  9  ~/partageable_Linux/main/main.cpp
-|4,39,22,9,1583865090,"~/partageable_Linux/main/main.cpp"
--'  22  9  ~/partageable_Linux/main/main.cpp
-|4,39,22,9,1583865090,"~/partageable_Linux/main/main.cpp"
--'  22  9  ~/partageable_Linux/main/main.cpp
-|4,39,22,9,1583865090,"~/partageable_Linux/main/main.cpp"
--'  22  9  ~/partageable_Linux/main/main.cpp
-|4,39,22,9,1583865090,"~/partageable_Linux/main/main.cpp"
--'  22  9  ~/partageable_Linux/main/main.cpp
-|4,39,22,9,1583865090,"~/partageable_Linux/main/main.cpp"
--'  22  9  ~/partageable_Linux/main/main.cpp
-|4,39,22,9,1583865065,"~/partageable_Linux/main/main.cpp"
--'  22  9  ~/partageable_Linux/main/main.cpp
-|4,39,22,9,1583865065,"~/partageable_Linux/main/main.cpp"
--'  22  9  ~/partageable_Linux/main/main.cpp
-|4,39,22,9,1583865065,"~/partageable_Linux/main/main.cpp"
--'  22  9  ~/partageable_Linux/main/main.cpp
-|4,39,22,9,1583865065,"~/partageable_Linux/main/main.cpp"
--'  22  9  ~/partageable_Linux/main/main.cpp
-|4,39,22,9,1583865065,"~/partageable_Linux/main/main.cpp"
--'  22  9  ~/partageable_Linux/main/main.cpp
-|4,39,22,9,1583865065,"~/partageable_Linux/main/main.cpp"
--'  24  0  ~/partageable_Linux/main/main.cpp
-|4,39,24,0,1583865051,"~/partageable_Linux/main/main.cpp"
--'  24  0  ~/partageable_Linux/main/main.cpp
-|4,39,24,0,1583865051,"~/partageable_Linux/main/main.cpp"
--'  24  0  ~/partageable_Linux/main/main.cpp
-|4,39,24,0,1583865051,"~/partageable_Linux/main/main.cpp"
--'  24  0  ~/partageable_Linux/main/main.cpp
-|4,39,24,0,1583865051,"~/partageable_Linux/main/main.cpp"
--'  24  0  ~/partageable_Linux/main/main.cpp
-|4,39,24,0,1583865051,"~/partageable_Linux/main/main.cpp"
--'  24  0  ~/partageable_Linux/main/main.cpp
-|4,39,24,0,1583865051,"~/partageable_Linux/main/main.cpp"
--'  9  59  ~/partageable_Linux/main/Makefile
-|4,39,9,59,1583864914,"~/partageable_Linux/main/Makefile"
--'  9  59  ~/partageable_Linux/main/Makefile
-|4,39,9,59,1583864914,"~/partageable_Linux/main/Makefile"
--'  9  59  ~/partageable_Linux/main/Makefile
-|4,39,9,59,1583864914,"~/partageable_Linux/main/Makefile"
--'  9  59  ~/partageable_Linux/main/Makefile
-|4,39,9,59,1583864914,"~/partageable_Linux/main/Makefile"
--'  9  59  ~/partageable_Linux/main/Makefile
-|4,39,9,59,1583864914,"~/partageable_Linux/main/Makefile"
--'  9  59  ~/partageable_Linux/main/Makefile
-|4,39,9,59,1583864914,"~/partageable_Linux/main/Makefile"
--'  9  59  ~/partageable_Linux/main/Makefile
-|4,39,9,59,1583864914,"~/partageable_Linux/main/Makefile"
--'  9  59  ~/partageable_Linux/main/Makefile
-|4,39,9,59,1583864914,"~/partageable_Linux/main/Makefile"
--'  9  59  ~/partageable_Linux/main/Makefile
-|4,39,9,59,1583864914,"~/partageable_Linux/main/Makefile"
--'  9  59  ~/partageable_Linux/main/Makefile
-|4,39,9,59,1583864914,"~/partageable_Linux/main/Makefile"
+-'  1  0  ~/exerciceHash_Linux/NaiveHashComponent/NaiveHashComponent.cpp
+|4,39,1,0,1583922999,"~/exerciceHash_Linux/NaiveHashComponent/NaiveHashComponent.cpp"
+-'  1  0  ~/exerciceHash_Linux/NaiveHashComponent/Naive
+|4,39,1,0,1583922999,"~/exerciceHash_Linux/NaiveHashComponent/Naive"
+-'  1  0  ~/exerciceHash_Linux/NaiveHashComponent/NaiveHashComponent.cpp
+|4,39,1,0,1583922999,"~/exerciceHash_Linux/NaiveHashComponent/NaiveHashComponent.cpp"
+-'  1  0  ~/exerciceHash_Linux/NaiveHashComponent/Naive
+|4,39,1,0,1583922999,"~/exerciceHash_Linux/NaiveHashComponent/Naive"
 
 # History of marks within files (newest to oldest):
 
-> ~/exerciceHash_Linux/main/Makefile
-	*	1583937530	0
-	"	6	37
-
-> ~/exerciceHash_Linux/NaiveHashComponent/Naive
-	*	1583922999	0
-	"	1	0
-
-> ~/exerciceHash_Linux/NaiveHashComponent/NaiveHashComponent.cpp
-	*	1583922999	0
-	"	1	0
-
-> ~/partageable_Linux/main.cpp
-	*	1583866599	0
-	"	21	86
-	^	21	88
-	.	21	87
-	+	21	87
-
 > ~/partageable_Linux/main/Makefile
-	*	1583864913	0
-	"	9	59
+	*	1584015661	0
+	"	5	38
 	^	9	60
 	.	9	59
 	+	9	59
 
+> ~/exerciceHash_Linux/main/Makefile
+	*	1584015226	0
+	"	5	21
+
+> ~/partageable_Linux/main.cpp
+	*	1583941339	0
+	"	1	0
+	^	21	88
+	.	21	87
+	+	21	87
+
 > ~/partageable_Linux/main/main.cpp
-	*	1583862590	0
-	"	16	1
-	^	10	17
-	.	10	17
+	*	1583941339	0
+	"	41	40
+	^	41	41
+	.	41	40
 	+	3	26
 	+	4	20
 	+	3	20
@@ -348,6 +340,27 @@
 	+	23	10
 	+	25	10
 	+	10	17
+	+	14	7
+	+	20	7
+	+	22	7
+	+	23	7
+	+	16	2
+	+	17	2
+	+	13	7
+	+	14	14
+	+	45	0
+	+	19	17
+	+	20	24
+	+	42	7
+	+	41	40
+
+> ~/exerciceHash_Linux/NaiveHashComponent/Naive
+	*	1583922999	0
+	"	1	0
+
+> ~/exerciceHash_Linux/NaiveHashComponent/NaiveHashComponent.cpp
+	*	1583922999	0
+	"	1	0
 
 > ~/partageable_Linux/Makefile
 	*	1583855814	0
