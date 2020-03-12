@@ -1,4 +1,3 @@
-
 CPPFLAGS=-I../interfaces
 
 COMPOSANT = Composant2

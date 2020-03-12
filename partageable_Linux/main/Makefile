@@ -1,5 +1,3 @@
-
-
 CPPFLAGS=-I../interfaces
 BIN_DIR=../bin
 COMPONENTS_NEEDED=Composant1 Composant2
@@ -35,4 +33,3 @@ install: ${BIN_DIR} all
 
 ${BIN_DIR}:
 	mkdir $@
-
