@@ -2,3 +2,14 @@
 *.so
 *.i
 *.swp
+.DS_Store
+.bash_history
+.bash_logout
+.bashrc
+.cache/motd.legal-displayed
+.gitconfig
+.profile
+.ssh/id_rsa
+.ssh/id_rsa.pub
+.ssh/known_hosts
+.viminfo
